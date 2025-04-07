@@ -1,4 +1,4 @@
-import { useState, useEffect, useRef } from "react";
+import { useState, useRef, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
 import "./ElectionGridView.css";
 
@@ -16,20 +16,6 @@ interface Politician {
 interface ElectionGridViewProps {
   politicians: Politician[];
 }
-
-// 党ごとの色を定義
-const partyColors: Record<string, string> = {
-  自由民主党: "#ff0000", // 赤
-  立憲民主党: "#0000ff", // 青
-  公明党: "#ffcc00", // 黄色
-  日本維新の会: "#ff6600", // オレンジ
-  国民民主党: "#33cc33", // 緑
-  日本共産党: "#660000", // 暗い赤
-  れいわ新選組: "#cc00cc", // 紫
-  社民党: "#996633", // 茶色
-  参政党: "#663399", // 紫
-  無所属: "#999999", // グレー
-};
 
 // 選挙区名から都道府県名を抽出する関数
 const extractPrefecture = (districtName: string): string => {
@@ -164,9 +150,6 @@ const prefectureLayout = [
   { prefecture: "鹿児島", x: 1, y: 10 },
   { prefecture: "沖縄", x: 0, y: 11 }, // 沖縄は離れた位置に
 ];
-
-// 平坦化して全ての都道府県の配置情報を取得
-const allPrefecturePositions = prefectureLayout.flat();
 
 const ElectionGridView = ({ politicians }: ElectionGridViewProps) => {
   const navigate = useNavigate();
