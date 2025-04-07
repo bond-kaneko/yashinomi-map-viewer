@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import "./App.css";
-import ElectionMapView from "./components/ElectionMapView";
+import ElectionGridView from "./components/ElectionGridView";
 
 // 政治家データの型定義
 interface Politician {
@@ -47,7 +47,7 @@ function App() {
     <div className="app">
       <header className="app-header">
         <h1>ヤシノミマップ</h1>
-        <p>選択的夫婦別姓と同性婚に関する国会議員の賛否を地図上で確認</p>
+        <p>選択的夫婦別姓と同性婚に関する国会議員の賛否を確認</p>
       </header>
 
       <main className="app-main">
@@ -56,7 +56,7 @@ function App() {
         ) : error ? (
           <div className="error">{error}</div>
         ) : (
-          <ElectionMapView politicians={politicians} />
+          <ElectionGridView politicians={politicians} />
         )}
       </main>
 

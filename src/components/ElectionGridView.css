@@ -1,0 +1,174 @@
+.election-grid-container {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  width: 100%;
+  height: 100%;
+  overflow-x: hidden;
+}
+
+.controls {
+  display: flex;
+  justify-content: center;
+  background-color: #f5f5f5;
+  padding: 1rem;
+  border-radius: 4px;
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  margin-bottom: 10px;
+}
+
+.control-selector {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.chamber-selector, .year-selector {
+  margin: 0;
+  font-size: 16px;
+  color: #333;
+}
+
+.chamber-selector label, .year-selector label {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-weight: bold;
+  color: #333;
+  white-space: nowrap;
+}
+
+.chamber-selector select, .year-selector select {
+  padding: 8px 12px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  background-color: white;
+  font-size: 14px;
+  min-width: 120px;
+  cursor: pointer;
+  color: #333;
+}
+
+.japan-grid-container {
+  position: relative;
+  overflow: auto;
+  max-height: 800px;
+  background-color: #a4cfec; /* 海の色 */
+  padding: 20px;
+  border-radius: 8px;
+  display: flex;
+  justify-content: center;
+}
+
+.japan-grid {
+  display: grid;
+  grid-template-columns: repeat(12, 90px);
+  grid-template-rows: repeat(12, 90px);
+  gap: 10px;
+  width: fit-content;
+  min-width: 1080px; /* 12 columns * 90px */
+  min-height: 1080px; /* 12 rows * 90px */
+  position: relative;
+}
+
+.prefecture-block {
+  background-color: #f8f8f8;
+  border-radius: 6px;
+  padding: 8px;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+.prefecture-name {
+  font-weight: bold;
+  font-size: 1.1rem;
+  margin-bottom: 8px;
+  text-align: center;
+  color: #333;
+  background-color: rgba(255, 255, 255, 0.7);
+  padding: 3px;
+  border-radius: 3px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+}
+
+.party-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(3, 1fr);
+  gap: 2px;
+  flex-grow: 1;
+}
+
+.party-block, .district-block {
+  width: 100%;
+  height: 100%;
+  min-height: 20px;
+  border-radius: 2px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+}
+
+.district-block:hover {
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4);
+  transform: scale(1.05);
+  transition: all 0.2s ease;
+  z-index: 1;
+}
+
+.legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  padding: 10px;
+  background-color: #f8f8f8;
+  border-radius: 4px;
+  border: 1px solid #ddd;
+  position: sticky;
+  bottom: 0;
+  z-index: 10;
+}
+
+.legend-title {
+  font-weight: bold;
+  width: 100%;
+  margin-bottom: 5px;
+}
+
+.legend-item {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  margin-right: 15px;
+}
+
+.color-box {
+  display: inline-block;
+  width: 15px;
+  height: 15px;
+  border: 1px solid #ddd;
+  border-radius: 2px;
+}
+
+@media (max-width: 768px) {
+  .japan-grid {
+    grid-template-columns: repeat(12, 70px);
+    grid-template-rows: repeat(12, 70px);
+    min-width: 840px;
+    min-height: 840px;
+    gap: 8px;
+  }
+  
+  .prefecture-name {
+    font-size: 0.9rem;
+  }
+  
+  .controls {
+    flex-direction: column;
+  }
+} 
