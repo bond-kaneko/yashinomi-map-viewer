@@ -79,6 +79,7 @@
   flex-wrap: wrap;
   gap: 20px;
   margin-bottom: 20px;
+  justify-content: center;
 }
 
 .district-section {
@@ -89,6 +90,8 @@
   flex: 1;
   min-width: 300px;
   max-width: calc(50% - 10px); /* 2列で表示、ギャップの半分を引く */
+  width: 100%;
+  box-sizing: border-box;
 }
 
 .district-title {
@@ -110,8 +113,9 @@
 
 .politicians-list {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
   gap: 15px;
+  width: 100%;
 }
 
 .politician-card {
@@ -185,6 +189,12 @@
 @media (max-width: 768px) {
   .district-section {
     max-width: 100%; /* スマホでは1列表示 */
+    min-width: 0; /* 最小幅制限を解除 */
+  }
+  
+  .districts-container {
+    flex-direction: column; /* 縦に並べる */
+    align-items: stretch;
   }
   
   .district-title {
@@ -196,5 +206,39 @@
   .control-selector {
     flex-direction: column;
     gap: 10px;
+  }
+  
+  .politicians-list {
+    grid-template-columns: 1fr; /* 1列表示に強制 */
+  }
+}
+
+@media (max-width: 480px) {
+  .prefecture-detail-container {
+    padding: 10px;
+  }
+  
+  .district-section {
+    padding: 15px 10px;
+    margin-bottom: 15px;
+  }
+  
+  .districts-container {
+    gap: 10px;
+  }
+  
+  .district-title {
+    font-size: 1.3rem;
+  }
+  
+  .district-status {
+    width: 100%;
+    text-align: center;
+    margin-top: 5px;
+  }
+  
+  .politician-card {
+    padding: 12px 10px;
+    margin-bottom: 10px;
   }
 } 

@@ -3,8 +3,9 @@
   flex-direction: column;
   gap: 1rem;
   width: 100%;
-  height: 100%;
+  height: 100vh;
   overflow-x: hidden;
+  padding-bottom: 80px; /* legendの高さ分の余白を追加 */
 }
 
 .controls {
@@ -52,6 +53,69 @@
   color: #333;
 }
 
+.zoom-controls {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  margin: 0 0 0 20px;
+  padding: 0;
+  background-color: transparent;
+  border-radius: 4px;
+  box-shadow: none;
+  z-index: 10;
+  position: relative;
+  max-width: 100%;
+  box-sizing: border-box;
+  border-left: 1px solid #ddd;
+  padding-left: 20px;
+}
+
+.zoom-button {
+  width: 36px;
+  height: 36px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  background-color: white;
+  cursor: pointer;
+  font-size: 1.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s ease;
+  padding: 0;
+  color: #333;
+}
+
+.reset-button {
+  width: auto;
+  min-width: 80px;
+  padding: 0 10px;
+  font-size: 0.95rem;
+  white-space: nowrap;
+  line-height: 1.2;
+  color: #333;
+  font-weight: 500;
+}
+
+.zoom-button:hover {
+  background-color: #f0f0f0;
+  border-color: #999;
+}
+
+.zoom-button:active {
+  background-color: #e0e0e0;
+  transform: translateY(1px);
+}
+
+.zoom-level {
+  font-size: 0.9rem;
+  font-weight: bold;
+  color: #444;
+  min-width: 50px;
+  text-align: center;
+}
+
 .japan-grid-container {
   position: relative;
   overflow: auto;
@@ -60,26 +124,31 @@
   padding: 20px;
   border-radius: 8px;
   display: flex;
-  justify-content: center;
-  align-items: center;
+  justify-content: flex-start; /* 左寄せにして横スクロールを見やすく */
+  align-items: flex-start; /* 上部から表示開始 */
   margin-bottom: 10px;
+  -webkit-overflow-scrolling: touch; /* iOSでのスムーズスクロール */
+  max-width: 100%;
+  width: 100%;
+  box-sizing: border-box;
 }
 
 .japan-grid {
   display: grid;
-  grid-template-columns: repeat(12, 90px);
-  grid-template-rows: repeat(12, 90px);
-  gap: 10px;
+  grid-template-columns: repeat(12, 135px);
+  grid-template-rows: repeat(12, 135px);
+  gap: 15px;
   width: fit-content;
-  min-width: 1080px; /* 12 columns * 90px */
-  min-height: 1080px; /* 12 rows * 90px */
+  min-width: 1620px; /* 12 columns * 135px */
+  min-height: 1620px; /* 12 rows * 135px */
   position: relative;
+  transition: transform 0.3s ease; /* ズーム時のアニメーション */
 }
 
 .prefecture-block {
   background-color: #f8f8f8;
   border-radius: 6px;
-  padding: 8px;
+  padding: 12px;
   display: flex;
   flex-direction: column;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
@@ -97,13 +166,13 @@
 
 .prefecture-name {
   font-weight: bold;
-  font-size: 1.1rem;
-  margin-bottom: 8px;
+  font-size: 1.4rem;
+  margin-bottom: 12px;
   text-align: center;
   color: #333;
   background-color: rgba(255, 255, 255, 0.7);
-  padding: 3px;
-  border-radius: 3px;
+  padding: 6px;
+  border-radius: 4px;
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
 }
 
@@ -111,7 +180,7 @@
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   grid-template-rows: repeat(3, 1fr);
-  gap: 2px;
+  gap: 4px;
   flex-grow: 1;
 }
 
@@ -130,6 +199,14 @@
   z-index: 1;
 }
 
+.district-block {
+  font-size: 1.1rem;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .legend {
   display: flex;
   flex-wrap: wrap;
@@ -138,10 +215,14 @@
   background-color: #f8f8f8;
   border-radius: 4px;
   border: 1px solid #ddd;
-  position: sticky;
+  position: fixed;
   bottom: 0;
+  left: 0;
+  right: 0;
   z-index: 10;
   color: #333;
+  width: 100%;
+  box-sizing: border-box;
 }
 
 .legend-title {
@@ -157,6 +238,7 @@
   gap: 5px;
   margin-right: 15px;
   color: #333;
+  font-size: 0.9rem;
 }
 
 .color-box {
@@ -169,46 +251,128 @@
 }
 
 @media (max-width: 768px) {
-  .japan-grid {
-    grid-template-columns: repeat(12, 70px);
-    grid-template-rows: repeat(12, 70px);
-    min-width: 840px;
-    min-height: 840px;
-    gap: 8px;
-  }
-  
-  .prefecture-name {
-    font-size: 0.9rem;
+  .zoom-controls {
+    padding: 0;
+    margin-top: 15px;
+    margin-left: 0;
+    padding-top: 15px;
+    border-left: none;
+    border-top: 1px solid #ddd;
   }
   
   .controls {
     flex-direction: column;
   }
-
+  
+  .japan-grid {
+    grid-template-columns: repeat(12, 110px);
+    grid-template-rows: repeat(12, 110px);
+    min-width: 1320px;
+    min-height: 1320px;
+    gap: 12px;
+    transform: none; /* 縮小なし */
+  }
+  
+  .prefecture-block {
+    padding: 10px;
+  }
+  
+  .prefecture-name {
+    font-size: 1.2rem;
+    margin-bottom: 8px;
+  }
+  
+  .district-block {
+    font-size: 0.9rem;
+  }
+  
   .legend {
     font-size: 0.8rem;
+    padding: 8px;
   }
 } 
 
 @media (max-width: 480px) {
+  .election-grid-container {
+    padding: 5px;
+    padding-bottom: 60px;
+  }
+  
+  .zoom-controls {
+    padding: 0;
+    gap: 6px;
+    margin-top: 10px;
+  }
+  
+  .zoom-button {
+    width: 32px;
+    height: 32px;
+    font-size: 1rem;
+  }
+  
+  .reset-button {
+    min-width: 70px;
+    font-size: 0.85rem;
+  }
+  
   .japan-grid {
-    grid-template-columns: repeat(12, 50px);
-    grid-template-rows: repeat(12, 50px);
-    min-width: 600px;
-    min-height: 600px;
-    gap: 5px;
+    grid-template-columns: repeat(12, 90px);
+    grid-template-rows: repeat(12, 90px);
+    min-width: 1080px;
+    min-height: 1080px;
+    gap: 8px;
+    transform: none; /* 縮小なし */
+  }
+  
+  .prefecture-block {
+    padding: 8px;
   }
   
   .prefecture-name {
-    font-size: 0.8rem;
+    font-size: 1rem;
+    margin-bottom: 6px;
+    padding: 4px;
   }
   
   .district-block {
-    font-size: 0.6rem;
+    font-size: 0.8rem;
+  }
+  
+  .party-grid {
+    gap: 3px;
+  }
+  
+  .controls {
+    padding: 0.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .control-selector {
+    gap: 10px;
+  }
+  
+  .chamber-selector select, .year-selector select {
+    padding: 6px 8px;
+    min-width: 100px;
   }
   
   .legend {
     font-size: 0.7rem;
     padding: 5px;
+  }
+  
+  .legend-item {
+    width: 100%;
+    margin-right: 0;
+    margin-bottom: 5px;
+  }
+  
+  .color-box {
+    width: 12px;
+    height: 12px;
+  }
+  
+  .legend-title {
+    margin-bottom: 3px;
   }
 } 

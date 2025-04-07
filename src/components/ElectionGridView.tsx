@@ -170,6 +170,7 @@ const allPrefecturePositions = prefectureLayout.flat();
 
 const ElectionGridView = ({ politicians }: ElectionGridViewProps) => {
   const navigate = useNavigate();
+  const [zoomLevel, setZoomLevel] = useState<number>(1); // ズームレベルの状態
 
   // 衆議院の最新選挙年を取得（存在しない場合は最初の選挙年）
   const getLatestElectionYear = (years: number[]): number => {
@@ -380,6 +381,18 @@ const ElectionGridView = ({ politicians }: ElectionGridViewProps) => {
     });
   };
 
+  // ズームレベルを変更する関数
+  const handleZoomChange = (newZoom: number) => {
+    if (newZoom >= 0.5 && newZoom <= 1.5) {
+      setZoomLevel(newZoom);
+    }
+  };
+
+  // ズームインとズームアウトの関数
+  const zoomIn = () => handleZoomChange(zoomLevel + 0.1);
+  const zoomOut = () => handleZoomChange(zoomLevel - 0.1);
+  const resetZoom = () => setZoomLevel(1);
+
   return (
     <div className="election-grid-container">
       <div className="controls">
@@ -415,11 +428,35 @@ const ElectionGridView = ({ politicians }: ElectionGridViewProps) => {
               </select>
             </label>
           </div>
+          <div className="zoom-controls">
+            <button onClick={zoomOut} className="zoom-button" title="縮小">
+              −
+            </button>
+            <button
+              onClick={resetZoom}
+              className="zoom-button reset-button"
+              title="リセット"
+            >
+              リセット
+            </button>
+            <button onClick={zoomIn} className="zoom-button" title="拡大">
+              ＋
+            </button>
+            <span className="zoom-level">{Math.round(zoomLevel * 100)}%</span>
+          </div>
         </div>
       </div>
 
       <div className="japan-grid-container">
-        <div className="japan-grid">{renderPrefectureBlocks()}</div>
+        <div
+          className="japan-grid"
+          style={{
+            transform: `scale(${zoomLevel})`,
+            transformOrigin: "top left",
+          }}
+        >
+          {renderPrefectureBlocks()}
+        </div>
       </div>
 
       <div className="legend">
@@ -436,7 +473,7 @@ const ElectionGridView = ({ politicians }: ElectionGridViewProps) => {
             className="color-box"
             style={{ backgroundColor: "#95a5a6" }}
           ></span>
-          <span>賛成の議員のみの選挙区</span>
+          <span>賛成議員のみの選挙区</span>
         </div>
       </div>
     </div>
