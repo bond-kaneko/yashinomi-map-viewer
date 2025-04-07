@@ -1,0 +1,29 @@
+{
+  "projectLanguage": "typescript",
+  "formatting": {
+    "indentSize": 2,
+    "tabSize": 2,
+    "useTabs": false
+  },
+  "comments": {
+    "language": "english"
+  },
+  "naming": {
+    "variables": "camelCase",
+    "functions": "camelCase",
+    "classes": "PascalCase",
+    "interfaces": "PascalCase",
+    "constants": "UPPER_CASE"
+  },
+  "imports": {
+    "sortImports": true,
+    "groupImports": true
+  },
+  "language": {
+    "scriptText": "english",
+    "comments": "english",
+    "logs": "english",
+    "errorMessages": "english",
+    "documentation": "english"
+  }
+} 
