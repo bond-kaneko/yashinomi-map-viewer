@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { useNavigate } from "react-router-dom";
 import "./ElectionGridView.css";
 
 // 政治家データの型定義
@@ -168,6 +169,8 @@ const prefectureLayout = [
 const allPrefecturePositions = prefectureLayout.flat();
 
 const ElectionGridView = ({ politicians }: ElectionGridViewProps) => {
+  const navigate = useNavigate();
+
   // 衆議院の最新選挙年を取得（存在しない場合は最初の選挙年）
   const getLatestElectionYear = (years: number[]): number => {
     return years.length > 0 ? years[0] : 2024;
@@ -359,7 +362,14 @@ const ElectionGridView = ({ politicians }: ElectionGridViewProps) => {
           style={{
             gridColumn: `${x + 1} / span ${span}`,
             gridRow: `${y + 1} / span ${spanY}`,
+            cursor: "pointer",
           }}
+          onClick={() =>
+            navigate(
+              `/prefecture/${prefecture}?chamber=${chamber}&year=${electionYear}`
+            )
+          }
+          title={`${prefecture}の詳細を表示`}
         >
           <div className="prefecture-name">{prefecture}</div>
           <div className="party-grid">
@@ -419,16 +429,14 @@ const ElectionGridView = ({ politicians }: ElectionGridViewProps) => {
             className="color-box"
             style={{ backgroundColor: "#D2B48C" }}
           ></span>
-          <span>
-            選択的夫婦別姓に賛成以外（反対・無回答等）の議員がいる選挙区
-          </span>
+          <span>賛成以外の議員がいる選挙区</span>
         </div>
         <div className="legend-item">
           <span
             className="color-box"
             style={{ backgroundColor: "#95a5a6" }}
           ></span>
-          <span>選択的夫婦別姓に賛成の議員のみの選挙区</span>
+          <span>賛成の議員のみの選挙区</span>
         </div>
       </div>
     </div>

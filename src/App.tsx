@@ -1,6 +1,8 @@
 import { useState, useEffect } from "react";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 import "./App.css";
 import ElectionGridView from "./components/ElectionGridView";
+import PrefectureDetailView from "./components/PrefectureDetailView";
 
 // 政治家データの型定義
 interface Politician {
@@ -44,35 +46,45 @@ function App() {
   }, []);
 
   return (
-    <div className="app">
-      <header className="app-header">
-        <h1>ヤシノミマップ</h1>
-        <p>選択的夫婦別姓と同性婚に関する国会議員の賛否を確認</p>
-      </header>
+    <BrowserRouter basename="/yashinomi-map-viewer">
+      <div className="app">
+        <header className="app-header">
+          <h1>ヤシノミマップ</h1>
+        </header>
 
-      <main className="app-main">
-        {loading ? (
-          <div className="loading">データを読み込み中...</div>
-        ) : error ? (
-          <div className="error">{error}</div>
-        ) : (
-          <ElectionGridView politicians={politicians} />
-        )}
-      </main>
+        <main className="app-main">
+          {loading ? (
+            <div className="loading">データを読み込み中...</div>
+          ) : error ? (
+            <div className="error">{error}</div>
+          ) : (
+            <Routes>
+              <Route
+                path="/"
+                element={<ElectionGridView politicians={politicians} />}
+              />
+              <Route
+                path="/prefecture/:prefectureName"
+                element={<PrefectureDetailView politicians={politicians} />}
+              />
+            </Routes>
+          )}
+        </main>
 
-      <footer className="app-footer">
-        <p>
-          データ提供:{" "}
-          <a
-            href="https://yashino.me/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            ヤシノミ作戦
-          </a>
-        </p>
-      </footer>
-    </div>
+        <footer className="app-footer">
+          <p>
+            データ提供:{" "}
+            <a
+              href="https://yashino.me/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              ヤシノミ作戦
+            </a>
+          </p>
+        </footer>
+      </div>
+    </BrowserRouter>
   );
 }
 
