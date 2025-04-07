@@ -277,8 +277,8 @@ const ElectionGridView = ({ politicians }: ElectionGridViewProps) => {
     // 選挙区ごとのブロックを作成
     const blocks = Array.from(districtGroups.entries()).map(
       ([district, pols], index) => {
-        // 夫婦別姓反対の議員がいるかチェック
-        const hasOpposition = pols.some((p) => p.separateLastName === "反対");
+        // 夫婦別姓に賛成以外の議員（反対、無回答など）がいるかチェック
+        const hasOpposition = pols.some((p) => p.separateLastName !== "賛成");
         // 当選した議員の党派を取得（最新の選挙年のものを取得）
         const latestElectionYear = Math.max(...pols.map((p) => p.electionYear));
         const electedPoliticians = pols.filter(
@@ -307,8 +307,8 @@ const ElectionGridView = ({ politicians }: ElectionGridViewProps) => {
             }}
             title={`${district}: ${
               hasOpposition
-                ? "夫婦別姓に反対の議員あり"
-                : "夫婦別姓に反対の議員なし"
+                ? "夫婦別姓に賛成以外の議員あり"
+                : "夫婦別姓に賛成の議員のみ"
             }\n${electedPoliticians
               .map((p) => `${p.name} (${p.party}): ${p.separateLastName}`)
               .join("\n")}`}
@@ -419,14 +419,16 @@ const ElectionGridView = ({ politicians }: ElectionGridViewProps) => {
             className="color-box"
             style={{ backgroundColor: "#D2B48C" }}
           ></span>
-          <span>選択的夫婦別姓に反対の議員が当選した選挙区</span>
+          <span>
+            選択的夫婦別姓に賛成以外（反対・無回答等）の議員がいる選挙区
+          </span>
         </div>
         <div className="legend-item">
           <span
             className="color-box"
             style={{ backgroundColor: "#95a5a6" }}
           ></span>
-          <span>選択的夫婦別姓に反対の議員がいない選挙区</span>
+          <span>選択的夫婦別姓に賛成の議員のみの選挙区</span>
         </div>
       </div>
     </div>
