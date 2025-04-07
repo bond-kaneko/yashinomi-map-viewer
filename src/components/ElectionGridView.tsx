@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState, useEffect, useRef } from "react";
 import { useNavigate } from "react-router-dom";
 import "./ElectionGridView.css";
 
@@ -170,7 +170,8 @@ const allPrefecturePositions = prefectureLayout.flat();
 
 const ElectionGridView = ({ politicians }: ElectionGridViewProps) => {
   const navigate = useNavigate();
-  const [zoomLevel, setZoomLevel] = useState<number>(1); // ズームレベルの状態
+  const [zoomLevel, setZoomLevel] = useState<number>(1);
+  const japanGridContainerRef = useRef<HTMLDivElement>(null);
 
   // 衆議院の最新選挙年を取得（存在しない場合は最初の選挙年）
   const getLatestElectionYear = (years: number[]): number => {
@@ -393,6 +394,23 @@ const ElectionGridView = ({ politicians }: ElectionGridViewProps) => {
   const zoomOut = () => handleZoomChange(zoomLevel - 0.1);
   const resetZoom = () => setZoomLevel(1);
 
+  // 初期位置を東京周辺に設定
+  useEffect(() => {
+    if (japanGridContainerRef.current) {
+      // 東京の位置は x=9, y=9 のため、その周辺にスクロール
+      const container = japanGridContainerRef.current;
+      // グリッドのサイズと間隔を考慮して中央付近に
+      const scrollToX = 800; // 東京が中央に来るように調整
+      const scrollToY = 800; // 東京が中央に来るように調整
+
+      container.scrollTo({
+        left: scrollToX,
+        top: scrollToY,
+        behavior: "auto",
+      });
+    }
+  }, []);
+
   return (
     <div className="election-grid-container">
       <div className="controls">
@@ -447,7 +465,7 @@ const ElectionGridView = ({ politicians }: ElectionGridViewProps) => {
         </div>
       </div>
 
-      <div className="japan-grid-container">
+      <div className="japan-grid-container" ref={japanGridContainerRef}>
         <div
           className="japan-grid"
           style={{
