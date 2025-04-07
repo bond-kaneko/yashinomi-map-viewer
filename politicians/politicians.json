@@ -1,0 +1,6428 @@
+[
+  {
+    "chamber": "representatives",
+    "district": "北海道1区",
+    "name": "道下 大樹",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "北海道2区",
+    "name": "松木 謙公",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "北海道3区",
+    "name": "荒井 優",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "北海道4区",
+    "name": "大築 紅葉",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "北海道4区",
+    "name": "中村 裕之",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "北海道5区",
+    "name": "池田 真紀",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "北海道6区",
+    "name": "東 国幹",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "北海道6区",
+    "name": "西川 将人",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "北海道7区",
+    "name": "鈴木 貴子",
+    "party": "自由民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "北海道7区",
+    "name": "篠田 奈保子",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "北海道8区",
+    "name": "逢坂 誠二",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "北海道8区",
+    "name": "向山 淳",
+    "party": "自由民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "北海道9区",
+    "name": "山岡 達丸",
+    "party": "立憲民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "北海道10区",
+    "name": "神谷 裕",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "北海道11区",
+    "name": "石川 香織",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "北海道12区",
+    "name": "武部 新",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "北海道12区",
+    "name": "川原田 英世",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "青森1区",
+    "name": "津島 淳",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "青森1区",
+    "name": "升田 世喜男",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "青森2区",
+    "name": "神田 潤一",
+    "party": "自由民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "青森3区",
+    "name": "岡田 華子",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "岩手1区",
+    "name": "階 猛",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "岩手2区",
+    "name": "鈴木 俊一",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "岩手3区",
+    "name": "小沢 一郎",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "宮城1区",
+    "name": "岡本 章子",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "宮城2区",
+    "name": "鎌田 さゆり",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "宮城3区",
+    "name": "柳沢 剛",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "宮城4区",
+    "name": "安住 淳",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "宮城5区",
+    "name": "小野寺 五典",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "秋田1区",
+    "name": "冨樫 博之",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "秋田1区",
+    "name": "寺田 学",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "秋田2区",
+    "name": "緑川 貴士",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "秋田2区",
+    "name": "福原 淳嗣",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "秋田3区",
+    "name": "村岡 敏英",
+    "party": "国民民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "秋田3区",
+    "name": "御法川 信英",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "山形1区",
+    "name": "遠藤 利明",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "山形2区",
+    "name": "鈴木憲和",
+    "party": "自由民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "山形2区",
+    "name": "菊池 大二郎",
+    "party": "国民民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "山形3区",
+    "name": "加藤 鮎子",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "福島1区",
+    "name": "金子 恵美",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "福島2区",
+    "name": "玄葉 光一郎",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "福島2区",
+    "name": "根本 拓",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "福島3区",
+    "name": "小熊　慎司",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "福島4区",
+    "name": "坂本 竜太郎",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "福島4区",
+    "name": "齋藤 裕喜",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "茨城1区",
+    "name": "福島 伸享",
+    "party": "無所属",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "茨城1区",
+    "name": "田所 嘉徳",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "茨城2区",
+    "name": "額賀 福志郎",
+    "party": "自由民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "茨城3区",
+    "name": "葉梨 康弘",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "茨城4区",
+    "name": "梶山 弘志",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "茨城5区",
+    "name": "浅野 哲",
+    "party": "国民民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "茨城6区",
+    "name": "青山 大人",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "茨城6区",
+    "name": "国光 文乃",
+    "party": "自由民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "茨城7区",
+    "name": "中村 勇太",
+    "party": "無所属",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "茨城7区",
+    "name": "永岡 桂子",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "栃木1区",
+    "name": "船田 元",
+    "party": "自由民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "栃木2区",
+    "name": "福田 昭夫",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "栃木2区",
+    "name": "五十嵐 清",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "栃木3区",
+    "name": "簗 和生",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "栃木4区",
+    "name": "藤岡 隆雄",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "栃木4区",
+    "name": "佐藤 勉",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "栃木5区",
+    "name": "茂木 敏充",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "群馬1区",
+    "name": "中曽根 康隆",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "群馬2区",
+    "name": "井野 俊郎",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "群馬3区",
+    "name": "笹川 博義",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "群馬3区",
+    "name": "長谷川 嘉一",
+    "party": "立憲民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "群馬4区",
+    "name": "福田 達夫",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "群馬5区",
+    "name": "小渕優子",
+    "party": "自由民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "埼玉1区",
+    "name": "村井 英樹",
+    "party": "自由民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "埼玉1区",
+    "name": "武正 公一",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "埼玉2区",
+    "name": "新藤 義孝",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "埼玉2区",
+    "name": "高橋 英明",
+    "party": "日本維新の会",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "埼玉3区",
+    "name": "黄川田仁志",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "埼玉3区",
+    "name": "竹内 千春",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "埼玉4区",
+    "name": "穂坂 泰",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "埼玉4区",
+    "name": "岸田 光広",
+    "party": "国民民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "埼玉5区",
+    "name": "枝野 幸男",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "埼玉6区",
+    "name": "大島 敦",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "埼玉7区",
+    "name": "小宮山 泰子",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "埼玉7区",
+    "name": "中野 英幸",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "埼玉8区",
+    "name": "柴山 昌彦",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "埼玉8区",
+    "name": "市来 伴子",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "埼玉9区",
+    "name": "杉村 慎治",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "埼玉10区",
+    "name": "坂本 祐之輔",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "埼玉11区",
+    "name": "小泉 龍司",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "埼玉12区",
+    "name": "森田 俊和",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "埼玉12区",
+    "name": "野中 厚",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "埼玉13区",
+    "name": "橋本 幹彦",
+    "party": "国民民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "埼玉13区",
+    "name": "れいわ高井 崇志",
+    "party": "",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "埼玉14区",
+    "name": "鈴木 義弘",
+    "party": "国民民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "埼玉15区",
+    "name": "田中 良生",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "埼玉16区",
+    "name": "土屋 品子",
+    "party": "自由民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "埼玉16区",
+    "name": "三角 創太",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "千葉1区",
+    "name": "田嶋 要",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "千葉2区",
+    "name": "小林 鷹之",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "千葉3区",
+    "name": "松野 博一",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "千葉3区",
+    "name": "岡島 一正",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "千葉4区",
+    "name": "水沼 秀幸",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "千葉5区",
+    "name": "矢崎 堅太郎",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "千葉5区",
+    "name": "岡野 純子",
+    "party": "国民民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "千葉5区",
+    "name": "英利 アルフィヤ",
+    "party": "自由民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "千葉6区",
+    "name": "安藤 じゅん子",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "千葉6区",
+    "name": "藤巻 健太",
+    "party": "日本維新の会",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "千葉7区",
+    "name": "齋藤 健",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "千葉8区",
+    "name": "本庄 知史",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "千葉9区",
+    "name": "奥野 総一郎",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "千葉10区",
+    "name": "小池 正昭",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "千葉10区",
+    "name": "谷田川 元",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "千葉11区",
+    "name": "森 英介",
+    "party": "自由民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "千葉11区",
+    "name": "れいわ多ケ谷 亮",
+    "party": "",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "千葉12区",
+    "name": "浜田 靖一",
+    "party": "自由民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "千葉13区",
+    "name": "松本 尚",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "千葉13区",
+    "name": "宮川 伸",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "千葉14区",
+    "name": "野田 佳彦",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "東京1区",
+    "name": "海江田 万里",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "東京2区",
+    "name": "辻 清人",
+    "party": "自由民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "東京2区",
+    "name": "鳩山 紀一郎",
+    "party": "国民民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "東京3区",
+    "name": "石原 宏高",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "東京3区",
+    "name": "阿部 祐美子",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "東京4区",
+    "name": "平将明",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "東京5区",
+    "name": "手塚 仁雄",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "東京6区",
+    "name": "落合 貴之",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "東京7区",
+    "name": "松尾 明弘",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "東京8区",
+    "name": "吉田 晴美",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "東京9区",
+    "name": "山岸 一生",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "東京10区",
+    "name": "鈴木 隼人",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "東京10区",
+    "name": "鈴木 庸介",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "東京11区",
+    "name": "阿久津 幸彦",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "東京12区",
+    "name": "高木 啓",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "東京12区",
+    "name": "阿部 司",
+    "party": "日本維新の会",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "東京13区",
+    "name": "土田 慎",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "東京13区",
+    "name": "森 洋介",
+    "party": "国民民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "東京14区",
+    "name": "松島 みどり",
+    "party": "自由民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "東京14区",
+    "name": "れいわ櫛渕 万里",
+    "party": "",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "東京15区",
+    "name": "酒井 菜摘",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "東京15区",
+    "name": "大空 幸星",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "東京16区",
+    "name": "大西 洋平",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "東京16区",
+    "name": "柴田 勝之",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "東京17区",
+    "name": "平沢 勝栄",
+    "party": "無所属",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "東京17区",
+    "name": "猪口 幸子",
+    "party": "日本維新の会",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "東京17区",
+    "name": "円 より子",
+    "party": "国民民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "東京18区",
+    "name": "福田 かおる",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "東京18区",
+    "name": "松下 玲子",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "東京19区",
+    "name": "末松 義規",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "東京19区",
+    "name": "松本 洋平",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "東京20区",
+    "name": "木原 誠二",
+    "party": "自由民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "東京21区",
+    "name": "大河原 雅子",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "東京22区",
+    "name": "山花 郁夫",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "東京22区",
+    "name": "伊藤 達也",
+    "party": "自由民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "東京23区",
+    "name": "伊藤 俊輔",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "東京24区",
+    "name": "萩生田 光一",
+    "party": "無所属",
+    "separateLastName": "反対",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "東京24区",
+    "name": "有田 芳生",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "東京25区",
+    "name": "井上 信治",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "東京26区",
+    "name": "松原 仁",
+    "party": "無所属",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "東京27区",
+    "name": "長妻 昭",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "東京28区",
+    "name": "高松 智之",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "東京28区",
+    "name": "安藤 高夫",
+    "party": "自由民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "東京29区",
+    "name": "岡本 三成",
+    "party": "公明党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "東京30区",
+    "name": "五十嵐 衣里",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "東京30区",
+    "name": "長島 昭久",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "神奈川1区",
+    "name": "篠原 豪",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "神奈川2区",
+    "name": "菅 義偉",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "神奈川3区",
+    "name": "中西 健治",
+    "party": "自由民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "神奈川4区",
+    "name": "早稲田 夕季",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "神奈川5区",
+    "name": "坂井 学",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "神奈川5区",
+    "name": "山崎 誠",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "神奈川6区",
+    "name": "青柳 陽一郎",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "神奈川6区",
+    "name": "古川 直季",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "神奈川7区",
+    "name": "中谷 一馬",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "神奈川7区",
+    "name": "鈴木 馨祐",
+    "party": "自由民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "神奈川8区",
+    "name": "江田 憲司",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "神奈川8区",
+    "name": "三谷 英弘",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "神奈川9区",
+    "name": "笠 浩史",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "神奈川10区",
+    "name": "田中 和徳",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "神奈川10区",
+    "name": "金村 龍那",
+    "party": "日本維新の会",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "神奈川11区",
+    "name": "小泉 進次郎",
+    "party": "自由民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "神奈川12区",
+    "name": "阿部 知子",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "神奈川12区",
+    "name": "星野 剛士",
+    "party": "自由民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "神奈川13区",
+    "name": "太 栄志",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "神奈川14区",
+    "name": "赤間 二郎",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "神奈川14区",
+    "name": "長友 克洋",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "神奈川15区",
+    "name": "河野 太郎",
+    "party": "自由民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "神奈川16区",
+    "name": "後藤 祐一",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "神奈川17区",
+    "name": "牧島 かれん",
+    "party": "自由民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "神奈川17区",
+    "name": "佐々木 奈保美",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "神奈川18区",
+    "name": "宗野 創",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "神奈川18区",
+    "name": "西岡 義高",
+    "party": "国民民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "神奈川18区",
+    "name": "山際 大志郎",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "神奈川19区",
+    "name": "草間 剛",
+    "party": "自由民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "神奈川19区",
+    "name": "深作 ヘスス",
+    "party": "国民民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "神奈川20区",
+    "name": "大塚 小百合",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "新潟1区",
+    "name": "西村 智奈美",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "新潟2区",
+    "name": "菊田 真紀子",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "新潟3区",
+    "name": "黒岩 宇洋",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "新潟3区",
+    "name": "斎藤 洋明",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "新潟4区",
+    "name": "米山 隆一",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "新潟5区",
+    "name": "梅谷 守",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "長野1区",
+    "name": "篠原 孝",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "長野2区",
+    "name": "下条 みつ",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "長野3区",
+    "name": "神津 健",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "長野3区",
+    "name": "井出 庸生",
+    "party": "自由民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "長野4区",
+    "name": "後藤 茂之",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "長野5区",
+    "name": "宮下 一郎",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "長野5区",
+    "name": "福田 淳太",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "山梨1区",
+    "name": "中島 克仁",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "山梨1区",
+    "name": "中谷 真一",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "山梨2区",
+    "name": "堀内 詔子",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "富山1区",
+    "name": "田畑 裕明",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "富山1区",
+    "name": "山 登志浩",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "富山2区",
+    "name": "上田 英俊",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "富山3区",
+    "name": "橘 慶一郎",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "石川1区",
+    "name": "小森 卓郎",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "石川1区",
+    "name": "小竹 凱",
+    "party": "国民民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "石川2区",
+    "name": "佐々木 紀",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "石川3区",
+    "name": "近藤 和也",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "石川3区",
+    "name": "西田 昭二",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "福井1区",
+    "name": "稲田 朋美",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "福井1区",
+    "name": "波多野 翼",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "福井2区",
+    "name": "辻 英之",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "福井2区",
+    "name": "斉木 武志",
+    "party": "日本維新の会",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "岐阜1区",
+    "name": "野田 聖子",
+    "party": "自由民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "岐阜2区",
+    "name": "棚橋 泰文",
+    "party": "自由民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "岐阜3区",
+    "name": "武藤 容治",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "岐阜3区",
+    "name": "れいわ阪口 直人",
+    "party": "",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "岐阜3区",
+    "name": "仙田 晃宏",
+    "party": "国民民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "岐阜4区",
+    "name": "今井 雅人",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "岐阜5区",
+    "name": "古屋 圭司",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "岐阜5区",
+    "name": "眞野 哲",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "静岡1区",
+    "name": "上川 陽子",
+    "party": "自由民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "静岡2区",
+    "name": "井林 辰憲",
+    "party": "自由民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "静岡2区",
+    "name": "鈴木 岳幸",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "静岡3区",
+    "name": "小山 展弘",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "静岡4区",
+    "name": "田中 健",
+    "party": "国民民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "静岡4区",
+    "name": "深澤 陽一",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "静岡5区",
+    "name": "細野 豪志",
+    "party": "自由民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "静岡6区",
+    "name": "渡辺 周",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "静岡6区",
+    "name": "勝俣 孝明",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "静岡7区",
+    "name": "城内 実",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "静岡8区",
+    "name": "源馬 謙太郎",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "愛知1区",
+    "name": "河村 たかし",
+    "party": "日本保守党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "愛知2区",
+    "name": "古川 元久",
+    "party": "国民民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "愛知3区",
+    "name": "近藤 昭一",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "愛知4区",
+    "name": "牧 義夫",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "愛知4区",
+    "name": "工藤 彰三",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "愛知5区",
+    "name": "西川 厚志",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "愛知6区",
+    "name": "丹羽 秀樹",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "愛知7区",
+    "name": "日野 紗里亜",
+    "party": "国民民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "愛知8区",
+    "name": "伴野 豊",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "愛知8区",
+    "name": "伊藤 忠彦",
+    "party": "自由民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "愛知9区",
+    "name": "岡本 充功",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "愛知9区",
+    "name": "長坂 康正",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "愛知10区",
+    "name": "藤原 規眞",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "愛知10区",
+    "name": "杉本 和巳",
+    "party": "日本維新の会",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "愛知10区",
+    "name": "若山 慎司",
+    "party": "自由民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "愛知11区",
+    "name": "丹野 みどり",
+    "party": "国民民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "愛知12区",
+    "name": "重徳 和彦",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "愛知13区",
+    "name": "大西 健介",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "愛知14区",
+    "name": "今枝 宗一郎",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "愛知14区",
+    "name": "大嶽 理恵",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "愛知15区",
+    "name": "根本 幸典",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "愛知15区",
+    "name": "小山 千帆",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "愛知16区",
+    "name": "福田 徹",
+    "party": "国民民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "愛知16区",
+    "name": "松田 功",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "三重1区",
+    "name": "田村 憲久",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "三重1区",
+    "name": "福森 和歌子",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "三重2区",
+    "name": "下野 幸助",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "三重2区",
+    "name": "川崎 秀人",
+    "party": "自由民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "三重3区",
+    "name": "岡田 克也",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "三重4区",
+    "name": "鈴木 英敬",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "滋賀1区",
+    "name": "斎藤 アレックス",
+    "party": "日本維新の会",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "滋賀1区",
+    "name": "大岡 敏孝",
+    "party": "自由民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "滋賀2区",
+    "name": "上野 賢一郎",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "滋賀3区",
+    "name": "武村 展英",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "滋賀3区",
+    "name": "北野 裕子",
+    "party": "参政党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "京都1区",
+    "name": "勝目 康",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "京都2区",
+    "name": "前原 誠司",
+    "party": "日本維新の会",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "京都2区",
+    "name": "堀川 朗子",
+    "party": "共産党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "京都3区",
+    "name": "泉 健太",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "京都4区",
+    "name": "北神 圭朗",
+    "party": "無所属",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "京都5区",
+    "name": "本田 太郎",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "京都6区",
+    "name": "山井 和則",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "大阪1区",
+    "name": "井上 英孝",
+    "party": "日本維新の会",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "大阪2区",
+    "name": "守島 正",
+    "party": "日本維新の会",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "大阪3区",
+    "name": "東 徹",
+    "party": "日本維新の会",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "大阪4区",
+    "name": "美延 映夫",
+    "party": "日本維新の会",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "大阪5区",
+    "name": "梅村 聡",
+    "party": "日本維新の会",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "大阪5区",
+    "name": "れいわ大石 晃子",
+    "party": "",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "大阪6区",
+    "name": "西田 薫",
+    "party": "日本維新の会",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "大阪7区",
+    "name": "奥下 剛光",
+    "party": "日本維新の会",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "大阪8区",
+    "name": "漆間 譲司",
+    "party": "日本維新の会",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "大阪8区",
+    "name": "平岩 征樹",
+    "party": "国民民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "大阪9区",
+    "name": "萩原 佳",
+    "party": "日本維新の会",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "大阪10区",
+    "name": "池下 卓",
+    "party": "日本維新の会",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "大阪10区",
+    "name": "尾辻 かな子",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "大阪11区",
+    "name": "中司 宏",
+    "party": "日本維新の会",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "大阪12区",
+    "name": "藤田 文武",
+    "party": "日本維新の会",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "大阪13区",
+    "name": "岩谷 良平",
+    "party": "日本維新の会",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "大阪13区",
+    "name": "れいわ八幡 愛",
+    "party": "",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "大阪14区",
+    "name": "青柳 仁士",
+    "party": "日本維新の会",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "大阪15区",
+    "name": "浦野 靖人",
+    "party": "日本維新の会",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "大阪15区",
+    "name": "島田 智明",
+    "party": "自由民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "大阪16区",
+    "name": "黒田 征樹",
+    "party": "日本維新の会",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "大阪16区",
+    "name": "森山 浩行",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "大阪17区",
+    "name": "馬場 伸幸",
+    "party": "日本維新の会",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "大阪18区",
+    "name": "遠藤 敬",
+    "party": "日本維新の会",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "大阪19区",
+    "name": "伊東 信久",
+    "party": "日本維新の会",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "兵庫1区",
+    "name": "井坂 信彦",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "兵庫2区",
+    "name": "赤羽 一嘉",
+    "party": "公明党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "兵庫2区",
+    "name": "阿部 圭史",
+    "party": "日本維新の会",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "兵庫3区",
+    "name": "関 芳弘",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "兵庫3区",
+    "name": "向山 好一",
+    "party": "国民民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "兵庫3区",
+    "name": "和田 有一朗",
+    "party": "日本維新の会",
+    "separateLastName": "反対",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "兵庫4区",
+    "name": "藤井 比早之",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "兵庫5区",
+    "name": "谷 公一",
+    "party": "自由民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "兵庫6区",
+    "name": "桜井 周",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "兵庫6区",
+    "name": "大串 正樹",
+    "party": "自由民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "兵庫6区",
+    "name": "市村 浩一郎",
+    "party": "日本維新の会",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "兵庫7区",
+    "name": "山田 賢司",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "兵庫7区",
+    "name": "岡田 悟",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "兵庫7区",
+    "name": "三木 圭恵",
+    "party": "日本維新の会",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "兵庫8区",
+    "name": "中野 洋昌",
+    "party": "公明党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "兵庫8区",
+    "name": "徳安 淳子",
+    "party": "日本維新の会",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "兵庫9区",
+    "name": "西村 康稔",
+    "party": "無所属",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "兵庫9区",
+    "name": "橋本 慧悟",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "兵庫10区",
+    "name": "渡海 紀三朗",
+    "party": "自由民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "兵庫11区",
+    "name": "松本 剛明",
+    "party": "自由民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "兵庫12区",
+    "name": "山口 壯",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "兵庫12区",
+    "name": "池畑 浩太朗",
+    "party": "日本維新の会",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "奈良1区",
+    "name": "馬淵 澄夫",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "奈良1区",
+    "name": "小林 茂樹",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "奈良2区",
+    "name": "高市 早苗",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "奈良3区",
+    "name": "田野瀬 太道",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "和歌山1区",
+    "name": "山本 大地",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "和歌山1区",
+    "name": "林 佑美",
+    "party": "日本維新の会",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "和歌山2区",
+    "name": "世耕 弘成",
+    "party": "無所属",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "鳥取1区",
+    "name": "石破 茂",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "鳥取2区",
+    "name": "赤沢 亮正",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "島根1区",
+    "name": "亀井 亜紀子",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "島根2区",
+    "name": "高見 康裕",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "岡山1区",
+    "name": "逢沢 一郎",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "岡山2区",
+    "name": "山下 貴司",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "岡山2区",
+    "name": "津村 啓介",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "岡山3区",
+    "name": "加藤 勝信",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "岡山4区",
+    "name": "柚木 道義",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "広島1区",
+    "name": "岸田 文雄",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "広島2区",
+    "name": "平口 洋",
+    "party": "自由民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "広島2区",
+    "name": "福田 玄",
+    "party": "国民民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "広島3区",
+    "name": "斉藤 鉄夫",
+    "party": "公明党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "広島3区",
+    "name": "東 克哉",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "広島4区",
+    "name": "空本 誠喜",
+    "party": "日本維新の会",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "広島4区",
+    "name": "寺田 稔",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "広島5区",
+    "name": "佐藤 公治",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "広島6区",
+    "name": "小林 史明",
+    "party": "自由民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "山口1区",
+    "name": "高村 正大",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "山口2区",
+    "name": "岸 信千世",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "山口2区",
+    "name": "平岡 秀夫",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "山口3区",
+    "name": "林 芳正",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "徳島1区",
+    "name": "仁木 博文",
+    "party": "自由民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "徳島1区",
+    "name": "高橋 永",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "徳島2区",
+    "name": "山口 俊一",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "香川1区",
+    "name": "小川 淳也",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "香川1区",
+    "name": "平井 卓也",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "香川2区",
+    "name": "玉木 雄一郎",
+    "party": "国民民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "香川2区",
+    "name": "瀬戸 隆一",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "香川3区",
+    "name": "大野 敬太郎",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "愛媛1区",
+    "name": "塩崎 彰久",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "愛媛1区",
+    "name": "石井 智恵",
+    "party": "国民民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "愛媛2区",
+    "name": "白石 洋一",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "愛媛3区",
+    "name": "長谷川 淳二",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "高知1区",
+    "name": "中谷 元",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "高知2区",
+    "name": "尾崎 正直",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "福岡1区",
+    "name": "井上 貴博",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "福岡2区",
+    "name": "稲富 修二",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "福岡2区",
+    "name": "鬼木 誠",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "福岡3区",
+    "name": "古賀 篤",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "福岡4区",
+    "name": "宮内 秀樹",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "福岡4区",
+    "name": "許斐 亮太郎",
+    "party": "国民民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "福岡4区",
+    "name": "阿部 弘樹",
+    "party": "日本維新の会",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "福岡5区",
+    "name": "栗原 渉",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "福岡5区",
+    "name": "堤 かなめ",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "福岡6区",
+    "name": "鳩山 二郎",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "福岡7区",
+    "name": "藤丸 敏",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "福岡8区",
+    "name": "麻生 太郎",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "福岡9区",
+    "name": "緒方 林太郎",
+    "party": "無所属",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "福岡10区",
+    "name": "城井 崇",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "福岡11区",
+    "name": "村上 智信",
+    "party": "日本維新の会",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "佐賀1区",
+    "name": "原口 一博",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "佐賀1区",
+    "name": "岩田 和親",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "佐賀2区",
+    "name": "大串 博志",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "佐賀2区",
+    "name": "古川 康",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "長崎1区",
+    "name": "西岡 秀子",
+    "party": "国民民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "長崎2区",
+    "name": "加藤 竜祥",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "長崎2区",
+    "name": "山田 勝彦",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "長崎3区",
+    "name": "金子 容三",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "熊本1区",
+    "name": "木原 稔",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "熊本2区",
+    "name": "西野 太亮",
+    "party": "自由民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "熊本3区",
+    "name": "坂本 哲志",
+    "party": "自由民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "熊本4区",
+    "name": "金子 恭之",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "大分1区",
+    "name": "吉良 州司",
+    "party": "無所属",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "大分2区",
+    "name": "広瀬 建",
+    "party": "無所属",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "大分2区",
+    "name": "吉川 元",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "大分3区",
+    "name": "岩屋 毅",
+    "party": "自由民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "宮崎1区",
+    "name": "渡辺 創",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "宮崎2区",
+    "name": "江藤 拓",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "宮崎2区",
+    "name": "長友 慎治",
+    "party": "国民民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "宮崎3区",
+    "name": "古川 禎久",
+    "party": "自由民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "鹿児島1区",
+    "name": "川内 博史",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "鹿児島1区",
+    "name": "宮路 拓馬",
+    "party": "自由民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "鹿児島2区",
+    "name": "三反園 訓",
+    "party": "無所属",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "鹿児島3区",
+    "name": "野間 健",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "鹿児島4区",
+    "name": "森山 裕",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "沖縄1区",
+    "name": "赤嶺 政賢",
+    "party": "共産党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "沖縄1区",
+    "name": "國場 幸之助",
+    "party": "自由民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "沖縄2区",
+    "name": "社民党新垣 邦男",
+    "party": "",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "沖縄2区",
+    "name": "宮崎 政久",
+    "party": "自由民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "沖縄3区",
+    "name": "島尻 安伊子",
+    "party": "自由民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "沖縄3区",
+    "name": "屋良 朝博",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "沖縄4区",
+    "name": "西銘 恒三郎",
+    "party": "自由民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "沖縄4区",
+    "name": "れいわ山川 仁",
+    "party": "",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "比例(北海道)",
+    "name": "臼木 秀剛",
+    "party": "国民民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "比例(北海道)",
+    "name": "伊東 良孝",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "比例(北海道)",
+    "name": "佐藤 英道",
+    "party": "公明党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "比例(東北)",
+    "name": "れいわ佐原 若子",
+    "party": "",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "比例(東北)",
+    "name": "馬場 雄基",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "比例(東北)",
+    "name": "森下 千里",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "比例(東北)",
+    "name": "江渡 聡徳",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "比例(東北)",
+    "name": "庄子 賢一",
+    "party": "公明党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "比例(北関東)",
+    "name": "山口 良治",
+    "party": "公明党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "比例(北関東)",
+    "name": "輿水 恵一",
+    "party": "公明党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "比例(北関東)",
+    "name": "福重 隆浩",
+    "party": "公明党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "比例(北関東)",
+    "name": "塩川 鉄也",
+    "party": "共産党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "比例(南関東)",
+    "name": "鈴木 敦",
+    "party": "参政党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "比例(南関東)",
+    "name": "沼崎 満子",
+    "party": "公明党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "比例(南関東)",
+    "name": "角田 秀穂",
+    "party": "公明党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "比例(南関東)",
+    "name": "志位 和夫",
+    "party": "共産党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "比例(東京)",
+    "name": "大森 江里子",
+    "party": "公明党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "比例(東京)",
+    "name": "河西 宏一",
+    "party": "公明党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "比例(東京)",
+    "name": "田村 智子",
+    "party": "共産党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "比例(北陸信越)",
+    "name": "国定 勇人",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "比例(北陸信越)",
+    "name": "中川 宏昌",
+    "party": "公明党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "比例(東海)",
+    "name": "れいわ上村 英明",
+    "party": "",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "比例(東海)",
+    "name": "竹上 裕子",
+    "party": "日本保守党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "比例(東海)",
+    "name": "西園 勝秀",
+    "party": "公明党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "比例(東海)",
+    "name": "中川 康洋",
+    "party": "公明党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "比例(東海)",
+    "name": "本村 伸子",
+    "party": "共産党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "比例(近畿)",
+    "name": "辰巳 孝太郎",
+    "party": "共産党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "比例(近畿)",
+    "name": "島田 洋一",
+    "party": "日本保守党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "比例(近畿)",
+    "name": "竹内 譲",
+    "party": "公明党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "比例(近畿)",
+    "name": "浮島 智子",
+    "party": "公明党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "比例(近畿)",
+    "name": "鰐淵 洋子",
+    "party": "公明党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "比例(近畿)",
+    "name": "石田 真敏",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "比例(近畿)",
+    "name": "小寺 裕雄",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "比例(中国)",
+    "name": "新谷 正義",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "比例(中国)",
+    "name": "平沼 正二郎",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "比例(中国)",
+    "name": "石橋 林太郎",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "比例(中国)",
+    "name": "吉田 真次",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "比例(中国)",
+    "name": "平林 晃",
+    "party": "公明党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "比例(四国)",
+    "name": "山崎 正恭",
+    "party": "公明党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "比例(四国)",
+    "name": "村上 誠一郎",
+    "party": "自由民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "比例(九州)",
+    "name": "阿部 俊子",
+    "party": "自由民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "比例(九州)",
+    "name": "浜地 雅一",
+    "party": "公明党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "比例(九州)",
+    "name": "吉田 宣弘",
+    "party": "公明党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "比例(九州)",
+    "name": "金城 泰邦",
+    "party": "公明党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "比例(九州)",
+    "name": "吉川 里奈",
+    "party": "参政党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "反対",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "representatives",
+    "district": "比例(九州)",
+    "name": "田村 貴昭",
+    "party": "共産党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2024
+  },
+  {
+    "chamber": "councillors",
+    "district": "北海道区",
+    "name": "船橋 利実",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "北海道区",
+    "name": "徳永 エリ",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "北海道区",
+    "name": "長谷川 岳",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "青森区",
+    "name": "田名部 匡代",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "岩手区",
+    "name": "広瀬 めぐみ",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "反対",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "宮城区",
+    "name": "桜井 充",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "秋田区",
+    "name": "石井 浩郎",
+    "party": "自由民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "山形区",
+    "name": "舟山 康江",
+    "party": "国民民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "福島区",
+    "name": "星 北斗",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "茨城区",
+    "name": "堂込 麻紀子",
+    "party": "無所属",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "茨城区",
+    "name": "加藤 明良",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "栃木区",
+    "name": "上野 通子",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "反対",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "群馬区",
+    "name": "中曽根 弘文",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "反対",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "埼玉区",
+    "name": "高木 真理",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "埼玉区",
+    "name": "上田 清司",
+    "party": "無所属",
+    "separateLastName": "反対",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "埼玉区",
+    "name": "関口 昌一",
+    "party": "自由民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "埼玉区",
+    "name": "西田 実仁",
+    "party": "公明党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "千葉区",
+    "name": "臼井 正一",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "反対",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "千葉区",
+    "name": "小西 洋之",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "千葉区",
+    "name": "猪口 邦子",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "東京区",
+    "name": "生稲 晃子",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "反対",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "東京区",
+    "name": "蓮舫",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "東京区",
+    "name": "朝日 健太郎",
+    "party": "自由民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "反対",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "東京区",
+    "name": "竹谷 とし子",
+    "party": "公明党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "東京区",
+    "name": "山添 拓",
+    "party": "共産党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "東京区",
+    "name": "れいわ山本 太郎",
+    "party": "",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "神奈川区",
+    "name": "水野 素子",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "神奈川区",
+    "name": "三原 じゅん子",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "神奈川区",
+    "name": "三浦 信祐",
+    "party": "公明党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "神奈川区",
+    "name": "浅尾 慶一郎",
+    "party": "自由民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "神奈川区",
+    "name": "松沢 成文",
+    "party": "日本維新の会",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "新潟区",
+    "name": "小林 一大",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "反対",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "長野区",
+    "name": "杉尾 秀哉",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "山梨区",
+    "name": "永井 学",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "反対",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "富山区",
+    "name": "野上 浩太郎",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "石川区",
+    "name": "岡田 直樹",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "反対",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "福井区",
+    "name": "山崎 正昭",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "反対",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "岐阜区",
+    "name": "渡辺 猛之",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "反対",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "静岡区",
+    "name": "若林 洋平",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "静岡区",
+    "name": "平山 佐知子",
+    "party": "無所属",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "愛知区",
+    "name": "斎藤 嘉隆",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "愛知区",
+    "name": "藤川 政人",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "反対",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "愛知区",
+    "name": "伊藤 孝恵",
+    "party": "国民民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "愛知区",
+    "name": "里見 隆治",
+    "party": "公明党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "三重区",
+    "name": "山本 佐知子",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "反対",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "滋賀区",
+    "name": "小鑓 隆史",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "反対",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "京都区",
+    "name": "吉井 章",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "反対",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "京都区",
+    "name": "福山 哲郎",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "大阪区",
+    "name": "松川 るい",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "大阪区",
+    "name": "石川 博崇",
+    "party": "公明党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "大阪区",
+    "name": "高木 かおり",
+    "party": "日本維新の会",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "大阪区",
+    "name": "浅田 均",
+    "party": "日本維新の会",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "兵庫区",
+    "name": "末松 信介",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "反対",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "兵庫区",
+    "name": "伊藤 孝江",
+    "party": "公明党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "兵庫区",
+    "name": "片山 大介",
+    "party": "日本維新の会",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "奈良区",
+    "name": "佐藤 啓",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "和歌山区",
+    "name": "鶴保 庸介",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "鳥取・島根区",
+    "name": "青木 一彦",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "岡山区",
+    "name": "小野田 紀美",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "広島区",
+    "name": "三上 絵里",
+    "party": "無所属",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "広島区",
+    "name": "宮沢 洋一",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "山口区",
+    "name": "江島 潔",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "反対",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "徳島・高知区",
+    "name": "中西 祐介",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "香川区",
+    "name": "磯崎 仁彦",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "愛媛区",
+    "name": "山本 順三",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "反対",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "福岡区",
+    "name": "古賀 之士",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "福岡区",
+    "name": "大家 敏志",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "福岡区",
+    "name": "秋野 公造",
+    "party": "公明党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "佐賀区",
+    "name": "福岡 資麿",
+    "party": "自由民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "反対",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "長崎区",
+    "name": "山本 啓介",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "熊本区",
+    "name": "松村 祥史",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "大分区",
+    "name": "古庄 玄知",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "反対",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "宮崎区",
+    "name": "松下 新平",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "反対",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "鹿児島区",
+    "name": "野村 哲郎",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "反対",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "沖縄区",
+    "name": "伊波 洋一",
+    "party": "無所属",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例区",
+    "name": "N党東谷 義和",
+    "party": "",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例区",
+    "name": "社民党福島 瑞穂",
+    "party": "",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例区",
+    "name": "山田 宏",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "反対",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例区",
+    "name": "山谷 えり子",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "反対",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例区",
+    "name": "藤木 眞也",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例区",
+    "name": "長谷川 英晴",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例区",
+    "name": "友納 理緒",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例区",
+    "name": "自見 英子",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例区",
+    "name": "進藤 金日子",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "反対",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例区",
+    "name": "神谷 政幸",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例区",
+    "name": "片山 さつき",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "反対",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例区",
+    "name": "越智 俊之",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例区",
+    "name": "今井 絵理子",
+    "party": "自由民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例区",
+    "name": "井上 義行",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "反対",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例区",
+    "name": "阿達 雅志",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例区",
+    "name": "足立 敏之",
+    "party": "自由民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "反対",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例区",
+    "name": "赤松 健",
+    "party": "自由民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例区",
+    "name": "青山 繁晴",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "反対",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例区",
+    "name": "梶原 大介",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例区",
+    "name": "藤井 一博",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "反対",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例区",
+    "name": "仁比 聡平",
+    "party": "共産党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例区",
+    "name": "岩渕 友",
+    "party": "共産党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例区",
+    "name": "田村 智子",
+    "party": "共産党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例区",
+    "name": "神谷 宗幣",
+    "party": "参政党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "反対",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例区",
+    "name": "竹詰 仁",
+    "party": "国民民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例区",
+    "name": "濱口 誠",
+    "party": "国民民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例区",
+    "name": "川合 孝典",
+    "party": "国民民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例区",
+    "name": "村田 享子",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例区",
+    "name": "辻元 清美",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例区",
+    "name": "柴 慎一",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例区",
+    "name": "古賀 千景",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例区",
+    "name": "鬼木 誠",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例区",
+    "name": "石橋 通宏",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例区",
+    "name": "青木 愛",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例区",
+    "name": "窪田 哲也",
+    "party": "公明党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例区",
+    "name": "谷合 正明",
+    "party": "公明党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例区",
+    "name": "熊野 正士",
+    "party": "公明党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例区",
+    "name": "上田 勇",
+    "party": "公明党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例区",
+    "name": "竹内 真二",
+    "party": "公明党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例区",
+    "name": "横山 信一",
+    "party": "公明党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例区",
+    "name": "れいわ水道橋博士",
+    "party": "",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例区",
+    "name": "れいわ天畠 大輔",
+    "party": "",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例区",
+    "name": "松野 明美",
+    "party": "日本維新の会",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例区",
+    "name": "中条 きよし",
+    "party": "日本維新の会",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例区",
+    "name": "金子 道仁",
+    "party": "日本維新の会",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "反対",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例区",
+    "name": "猪瀬 直樹",
+    "party": "日本維新の会",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例区",
+    "name": "青島 健太",
+    "party": "日本維新の会",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例区",
+    "name": "串田 誠一",
+    "party": "日本維新の会",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例区",
+    "name": "石井 苗子",
+    "party": "日本維新の会",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例区",
+    "name": "石井 章",
+    "party": "日本維新の会",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2022
+  },
+  {
+    "chamber": "councillors",
+    "district": "北海道",
+    "name": "岩本 剛人",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "反対",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "北海道",
+    "name": "勝部 賢志",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "北海道",
+    "name": "高橋 はるみ",
+    "party": "自由民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "青森",
+    "name": "滝沢 求",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "岩手",
+    "name": "横澤 高徳",
+    "party": "無所属",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "宮城",
+    "name": "石垣 のりこ",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "秋田",
+    "name": "寺田 静",
+    "party": "無所属",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "山形",
+    "name": "芳賀 道也",
+    "party": "無所属",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "福島",
+    "name": "森 まさこ",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "茨城",
+    "name": "小沼 巧",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "茨城",
+    "name": "上月 良祐",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "反対",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "栃木",
+    "name": "高橋 克法",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "群馬",
+    "name": "清水 真人",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "埼玉",
+    "name": "伊藤 岳",
+    "party": "共産党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "埼玉",
+    "name": "矢倉 克夫",
+    "party": "公明党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "埼玉",
+    "name": "熊谷 裕人",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "埼玉",
+    "name": "古川 俊治",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "反対",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "千葉",
+    "name": "豊田 俊郎",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "千葉",
+    "name": "長浜 博行",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "千葉",
+    "name": "石井 準一",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "東京",
+    "name": "武見 敬三",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "東京",
+    "name": "音喜多 駿",
+    "party": "日本維新の会",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "東京",
+    "name": "塩村 文夏",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "東京",
+    "name": "吉良 佳子",
+    "party": "共産党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "東京",
+    "name": "山口 那津男",
+    "party": "公明党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "東京",
+    "name": "丸川 珠代",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "神奈川",
+    "name": "松沢 成文",
+    "party": "日本維新の会",
+    "separateLastName": "反対",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "神奈川",
+    "name": "佐々木 さやか",
+    "party": "公明党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "神奈川",
+    "name": "牧山 ひろえ",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "神奈川",
+    "name": "島村 大",
+    "party": "自由民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "新潟",
+    "name": "打越 さく良",
+    "party": "無所属",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "長野",
+    "name": "羽田 雄一郎",
+    "party": "国民民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "山梨",
+    "name": "森屋 宏",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "反対",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "富山",
+    "name": "堂故 茂",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "石川",
+    "name": "山田 修路",
+    "party": "自由民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "福井",
+    "name": "滝波 宏文",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "岐阜",
+    "name": "大野 泰正",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "静岡",
+    "name": "榛葉 賀津也",
+    "party": "国民民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "静岡",
+    "name": "牧野 京夫",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "反対",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "愛知",
+    "name": "安江 伸夫",
+    "party": "公明党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "愛知",
+    "name": "田島 麻衣子",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "愛知",
+    "name": "大塚 耕平",
+    "party": "国民民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "愛知",
+    "name": "酒井 庸行",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "三重",
+    "name": "吉川 有美",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "滋賀",
+    "name": "嘉田 由紀子",
+    "party": "無所属",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "京都",
+    "name": "倉林 明子",
+    "party": "共産党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "京都",
+    "name": "西田 昌司",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "反対",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "大阪",
+    "name": "太田 房江",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "反対",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "大阪",
+    "name": "杉 久武",
+    "party": "公明党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "大阪",
+    "name": "東 徹",
+    "party": "日本維新の会",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "大阪",
+    "name": "梅村 みずほ",
+    "party": "日本維新の会",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "兵庫",
+    "name": "加田 裕之",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "兵庫",
+    "name": "高橋 光男",
+    "party": "公明党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "兵庫",
+    "name": "清水 貴之",
+    "party": "日本維新の会",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "奈良",
+    "name": "堀井 巌",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "和歌山",
+    "name": "世耕 弘成",
+    "party": "自由民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "鳥取・島根",
+    "name": "舞立 昇治",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "岡山",
+    "name": "石井 正弘",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "広島",
+    "name": "河井 案里",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "広島",
+    "name": "森本 真治",
+    "party": "無所属",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "山口",
+    "name": "林 芳正",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "徳島・高知",
+    "name": "高野 光二郎",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "反対",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "香川",
+    "name": "三宅 伸吾",
+    "party": "自由民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "愛媛",
+    "name": "永江 孝子",
+    "party": "無所属",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "福岡",
+    "name": "野田 国義",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "福岡",
+    "name": "下野 六太",
+    "party": "公明党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "福岡",
+    "name": "松山 政司",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "佐賀",
+    "name": "山下 雄平",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "長崎",
+    "name": "古賀 友一郎",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "熊本",
+    "name": "馬場 成志",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "大分",
+    "name": "安達 澄",
+    "party": "無所属",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "宮崎",
+    "name": "長峯 誠",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "反対",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "鹿児島",
+    "name": "尾辻 秀久",
+    "party": "自由民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "沖縄",
+    "name": "高良 鉄美",
+    "party": "無所属",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例(参院全国)",
+    "name": "N党立花 孝志",
+    "party": "",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例(参院全国)",
+    "name": "れいわ木村 英子",
+    "party": "",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例(参院全国)",
+    "name": "れいわ舩後 靖彦",
+    "party": "",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例(参院全国)",
+    "name": "社民党吉田 忠智",
+    "party": "",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例(参院全国)",
+    "name": "柳ヶ瀬 裕文",
+    "party": "日本維新の会",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例(参院全国)",
+    "name": "柴田 巧",
+    "party": "日本維新の会",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例(参院全国)",
+    "name": "梅村 聡",
+    "party": "日本維新の会",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "反対",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例(参院全国)",
+    "name": "室井 邦彦",
+    "party": "日本維新の会",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例(参院全国)",
+    "name": "鈴木 宗男",
+    "party": "日本維新の会",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例(参院全国)",
+    "name": "紙 智子",
+    "party": "共産党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例(参院全国)",
+    "name": "井上 哲士",
+    "party": "共産党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例(参院全国)",
+    "name": "山下 芳生",
+    "party": "共産党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例(参院全国)",
+    "name": "小池 晃",
+    "party": "共産党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例(参院全国)",
+    "name": "塩田 博昭",
+    "party": "公明党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例(参院全国)",
+    "name": "平木 大作",
+    "party": "公明党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例(参院全国)",
+    "name": "新妻 秀規",
+    "party": "公明党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例(参院全国)",
+    "name": "河野 義博",
+    "party": "公明党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例(参院全国)",
+    "name": "若松 謙維",
+    "party": "公明党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例(参院全国)",
+    "name": "山本 博司",
+    "party": "公明党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例(参院全国)",
+    "name": "山本 香苗",
+    "party": "公明党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例(参院全国)",
+    "name": "浜野 喜史",
+    "party": "国民民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例(参院全国)",
+    "name": "礒崎 哲史",
+    "party": "国民民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例(参院全国)",
+    "name": "田村 麻美",
+    "party": "国民民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例(参院全国)",
+    "name": "須藤 元気",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例(参院全国)",
+    "name": "石川 大我",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例(参院全国)",
+    "name": "川田 龍平",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例(参院全国)",
+    "name": "森屋 隆",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例(参院全国)",
+    "name": "吉川 沙織",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例(参院全国)",
+    "name": "小沢 雅仁",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例(参院全国)",
+    "name": "水岡 俊一",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例(参院全国)",
+    "name": "岸 真紀子",
+    "party": "立憲民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例(参院全国)",
+    "name": "赤池 誠章",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "反対",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例(参院全国)",
+    "name": "山東 昭子",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "反対",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例(参院全国)",
+    "name": "宮崎 雅夫",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例(参院全国)",
+    "name": "羽生田 俊",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例(参院全国)",
+    "name": "衛藤 晟一",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例(参院全国)",
+    "name": "本田 顕子",
+    "party": "自由民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "反対",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例(参院全国)",
+    "name": "北村 経夫",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "反対",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例(参院全国)",
+    "name": "石田 昌宏",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例(参院全国)",
+    "name": "宮本 周司",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例(参院全国)",
+    "name": "有村 治子",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "反対",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例(参院全国)",
+    "name": "山田 俊男",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "反対",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例(参院全国)",
+    "name": "橋本 聖子",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例(参院全国)",
+    "name": "佐藤 信秋",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例(参院全国)",
+    "name": "佐藤 正久",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例(参院全国)",
+    "name": "和田 政宗",
+    "party": "自由民主党",
+    "separateLastName": "反対",
+    "sameSexMarriage": "反対",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例(参院全国)",
+    "name": "山田 太郎",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例(参院全国)",
+    "name": "柘植 芳文",
+    "party": "自由民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "賛成",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例(参院全国)",
+    "name": "三浦 靖",
+    "party": "自由民主党",
+    "separateLastName": "賛成",
+    "sameSexMarriage": "反対",
+    "electionYear": 2019
+  },
+  {
+    "chamber": "councillors",
+    "district": "比例(参院全国)",
+    "name": "三木 亨",
+    "party": "自由民主党",
+    "separateLastName": "無回答",
+    "sameSexMarriage": "無回答",
+    "electionYear": 2019
+  }
+]

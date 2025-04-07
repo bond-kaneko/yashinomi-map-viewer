@@ -1,0 +1,187 @@
+{
+  "chamber": "all",
+  "total": 714,
+  "byElectionYear": {
+    "2019": {
+      "total": 124,
+      "separateLastName": {
+        "賛成": 67,
+        "反対": 15,
+        "無回答": 42
+      },
+      "sameSexMarriage": {
+        "賛成": 46,
+        "反対": 18,
+        "無回答": 60
+      }
+    },
+    "2022": {
+      "total": 125,
+      "separateLastName": {
+        "賛成": 66,
+        "反対": 28,
+        "無回答": 31
+      },
+      "sameSexMarriage": {
+        "賛成": 56,
+        "反対": 32,
+        "無回答": 37
+      }
+    },
+    "2024": {
+      "total": 465,
+      "separateLastName": {
+        "賛成": 301,
+        "反対": 59,
+        "無回答": 105
+      },
+      "sameSexMarriage": {
+        "賛成": 232,
+        "反対": 88,
+        "無回答": 145
+      }
+    }
+  },
+  "separateLastName": {
+    "賛成": 434,
+    "反対": 102,
+    "無回答": 178
+  },
+  "sameSexMarriage": {
+    "賛成": 334,
+    "反対": 138,
+    "無回答": 242
+  },
+  "byParty": {
+    "立憲民主党": {
+      "count": 182,
+      "separateLastName": {
+        "賛成": 180,
+        "反対": 1,
+        "無回答": 1
+      },
+      "sameSexMarriage": {
+        "賛成": 161,
+        "反対": 2,
+        "無回答": 19
+      }
+    },
+    "自由民主党": {
+      "count": 311,
+      "separateLastName": {
+        "賛成": 71,
+        "反対": 92,
+        "無回答": 148
+      },
+      "sameSexMarriage": {
+        "賛成": 30,
+        "反対": 119,
+        "無回答": 162
+      }
+    },
+    "国民民主党": {
+      "count": 39,
+      "separateLastName": {
+        "賛成": 31,
+        "反対": 0,
+        "無回答": 8
+      },
+      "sameSexMarriage": {
+        "賛成": 18,
+        "反対": 4,
+        "無回答": 17
+      }
+    },
+    "無所属": {
+      "count": 26,
+      "separateLastName": {
+        "賛成": 21,
+        "反対": 2,
+        "無回答": 3
+      },
+      "sameSexMarriage": {
+        "賛成": 15,
+        "反対": 3,
+        "無回答": 8
+      }
+    },
+    "日本維新の会": {
+      "count": 60,
+      "separateLastName": {
+        "賛成": 47,
+        "反対": 2,
+        "無回答": 11
+      },
+      "sameSexMarriage": {
+        "賛成": 34,
+        "反対": 7,
+        "無回答": 19
+      }
+    },
+    "": {
+      "count": 19,
+      "separateLastName": {
+        "賛成": 16,
+        "反対": 0,
+        "無回答": 3
+      },
+      "sameSexMarriage": {
+        "賛成": 16,
+        "反対": 0,
+        "無回答": 3
+      }
+    },
+    "公明党": {
+      "count": 51,
+      "separateLastName": {
+        "賛成": 49,
+        "反対": 0,
+        "無回答": 2
+      },
+      "sameSexMarriage": {
+        "賛成": 41,
+        "反対": 0,
+        "無回答": 10
+      }
+    },
+    "日本保守党": {
+      "count": 3,
+      "separateLastName": {
+        "賛成": 0,
+        "反対": 1,
+        "無回答": 2
+      },
+      "sameSexMarriage": {
+        "賛成": 0,
+        "反対": 1,
+        "無回答": 2
+      }
+    },
+    "参政党": {
+      "count": 4,
+      "separateLastName": {
+        "賛成": 0,
+        "反対": 4,
+        "無回答": 0
+      },
+      "sameSexMarriage": {
+        "賛成": 0,
+        "反対": 2,
+        "無回答": 2
+      }
+    },
+    "共産党": {
+      "count": 19,
+      "separateLastName": {
+        "賛成": 19,
+        "反対": 0,
+        "無回答": 0
+      },
+      "sameSexMarriage": {
+        "賛成": 19,
+        "反対": 0,
+        "無回答": 0
+      }
+    }
+  }
+}
