@@ -172,6 +172,10 @@ const ElectionGridView = ({ politicians }: ElectionGridViewProps) => {
   const navigate = useNavigate();
   const [zoomLevel, setZoomLevel] = useState<number>(1);
   const japanGridContainerRef = useRef<HTMLDivElement>(null);
+  // スワイプ検出用の変数
+  const touchStartX = useRef<number | null>(null);
+  const touchEndX = useRef<number | null>(null);
+  const MIN_SWIPE_DISTANCE = 100; // 最小スワイプ距離（ピクセル）
 
   // 衆議院の最新選挙年を取得（存在しない場合は最初の選挙年）
   const getLatestElectionYear = (years: number[]): number => {
@@ -409,6 +413,42 @@ const ElectionGridView = ({ politicians }: ElectionGridViewProps) => {
         behavior: "auto",
       });
     }
+  }, []);
+
+  // スワイプジェスチャー検出のためのイベントリスナーを設定
+  useEffect(() => {
+    const handleTouchStart = (e: TouchEvent) => {
+      touchStartX.current = e.touches[0].clientX;
+    };
+
+    const handleTouchEnd = (e: TouchEvent) => {
+      if (touchStartX.current === null) return;
+
+      touchEndX.current = e.changedTouches[0].clientX;
+
+      // 右から左へのスワイプを検出（戻るジェスチャー）
+      if (touchEndX.current < touchStartX.current - MIN_SWIPE_DISTANCE) {
+        // モバイルデバイスでのみ動作させる（画面幅が768px以下）
+        if (window.innerWidth <= 768) {
+          // ブラウザの履歴を戻る
+          window.history.back();
+        }
+      }
+
+      // 値をリセット
+      touchStartX.current = null;
+      touchEndX.current = null;
+    };
+
+    // イベントリスナーの登録
+    document.addEventListener("touchstart", handleTouchStart);
+    document.addEventListener("touchend", handleTouchEnd);
+
+    // クリーンアップ関数
+    return () => {
+      document.removeEventListener("touchstart", handleTouchStart);
+      document.removeEventListener("touchend", handleTouchEnd);
+    };
   }, []);
 
   return (
