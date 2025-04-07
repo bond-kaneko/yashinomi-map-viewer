@@ -34,40 +34,17 @@
 
 .map-wrapper {
   width: 100%;
-  height: 600px;
-  border: 1px solid #ddd;
+  height: 800px;
   border-radius: 4px;
   overflow: hidden;
   background-color: #f8f8f8;
   position: relative;
 }
 
-/* Debug section style */
-.debug-info {
-  position: absolute;
-  bottom: 10px;
-  left: 10px;
-  z-index: 1000;
-  background: rgba(255,255,255,0.8);
-  padding: 5px;
-  border-radius: 4px;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.2);
-  max-width: 300px;
-  max-height: 150px;
-  overflow: auto;
-}
-
-/* React Simple Maps のスタイル調整 */
-.map-wrapper svg {
-  display: block;
+.leaflet-container {
   width: 100%;
   height: 100%;
-}
-
-.rsm-geography {
-  outline: none;
-  cursor: pointer;
-  transition: fill 0.2s;
+  z-index: 0;
 }
 
 .loading-map, .error-map {
@@ -107,6 +84,19 @@
   border: 1px solid #ddd;
 }
 
+/* ホバー時の地区情報表示 */
+.tooltip {
+  position: absolute;
+  padding: 10px;
+  background: rgba(0, 0, 0, 0.8);
+  color: #fff;
+  max-width: 300px;
+  font-size: 14px;
+  z-index: 9;
+  pointer-events: none;
+  border-radius: 4px;
+}
+
 @media (max-width: 768px) {
   .controls {
     flex-direction: column;
@@ -122,5 +112,9 @@
   
   .legend-item {
     margin: 5px 10px;
+  }
+
+  .map-wrapper {
+    height: 600px;
   }
 } 
