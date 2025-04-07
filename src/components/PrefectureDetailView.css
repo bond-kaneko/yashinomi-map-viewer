@@ -120,11 +120,19 @@
   padding: 15px;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
   transition: all 0.2s ease;
+  cursor: pointer;
+  position: relative;
 }
 
 .politician-card:hover {
-  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.15);
-  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transform: translateY(-3px);
+  background-color: #f8f8f8;
+}
+
+.politician-card:active {
+  transform: translateY(-1px);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
 }
 
 .politician-name {

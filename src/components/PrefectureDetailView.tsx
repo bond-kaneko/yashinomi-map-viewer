@@ -126,6 +126,13 @@ const PrefectureDetailView = ({ politicians }: PrefectureDetailViewProps) => {
 
   // 議員の情報をカードとして表示
   const renderPoliticianCard = (politician: Politician) => {
+    const handleCardClick = () => {
+      const searchQuery = encodeURIComponent(
+        `${politician.name} ${politician.party}`
+      );
+      window.open(`https://www.google.com/search?q=${searchQuery}`, "_blank");
+    };
+
     return (
       <div
         key={`${politician.name}-${politician.electionYear}`}
@@ -134,7 +141,10 @@ const PrefectureDetailView = ({ politicians }: PrefectureDetailViewProps) => {
           borderLeft: `5px solid ${
             politician.separateLastName === "賛成" ? "#95a5a6" : "#D2B48C"
           }`,
+          cursor: "pointer",
         }}
+        onClick={handleCardClick}
+        title={`${politician.name}をGoogleで検索`}
       >
         <div className="politician-name">{politician.name}</div>
         <div className="politician-party">{politician.party}</div>
