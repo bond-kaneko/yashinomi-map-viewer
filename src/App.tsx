@@ -50,6 +50,7 @@ function App() {
       <div className="app">
         <header className="app-header">
           <h1>ヤシノミマップ</h1>
+          <p>選択的夫婦別姓に賛成していない議員の選挙区</p>
         </header>
 
         <main className="app-main">
