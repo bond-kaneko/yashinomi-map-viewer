@@ -91,4 +91,40 @@ body {
     padding: 1rem;
     min-height: 80vh;
   }
+  
+  .app-footer {
+    margin-top: 1rem;
+    padding: 0.75rem 0;
+    font-size: 0.85rem;
+    position: relative;
+    background-color: var(--container-bg);
+    border-radius: 4px;
+    width: 100%;
+    z-index: 20;
+  }
+}
+
+@media (max-width: 480px) {
+  .app {
+    padding: 0.25rem;
+  }
+  
+  .app-main {
+    padding: 0.75rem;
+    min-height: 80vh;
+    margin-bottom: 50px;
+  }
+  
+  .app-footer {
+    margin-top: 0.5rem;
+    padding: 0.5rem 0;
+    font-size: 0.8rem;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: var(--container-bg);
+    z-index: 20;
+    border-radius: 0;
+  }
 } 

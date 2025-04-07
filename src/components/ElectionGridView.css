@@ -5,7 +5,6 @@
   width: 100%;
   height: 100vh;
   overflow-x: hidden;
-  padding-bottom: 80px; /* legendの高さ分の余白を追加 */
 }
 
 .controls {
@@ -207,49 +206,6 @@
   justify-content: center;
 }
 
-.legend {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 10px;
-  padding: 10px;
-  background-color: #f8f8f8;
-  border-radius: 4px;
-  border: 1px solid #ddd;
-  position: fixed;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  z-index: 10;
-  color: #333;
-  width: 100%;
-  box-sizing: border-box;
-}
-
-.legend-title {
-  font-weight: bold;
-  width: 100%;
-  margin-bottom: 5px;
-  color: #333;
-}
-
-.legend-item {
-  display: flex;
-  align-items: center;
-  gap: 5px;
-  margin-right: 15px;
-  color: #333;
-  font-size: 0.9rem;
-}
-
-.color-box {
-  display: inline-block;
-  width: 15px;
-  height: 15px;
-  border: 1px solid #ddd;
-  border-radius: 2px;
-  flex-shrink: 0;
-}
-
 @media (max-width: 768px) {
   .zoom-controls {
     padding: 0;
@@ -285,23 +241,14 @@
   .district-block {
     font-size: 0.9rem;
   }
-  
-  .legend {
-    font-size: 0.8rem;
-    padding: 8px;
-  }
 } 
 
 @media (max-width: 480px) {
-  .election-grid-container {
-    padding: 5px;
-    padding-bottom: 60px;
-  }
   
   .zoom-controls {
     padding: 0;
     gap: 6px;
-    margin-top: 10px;
+    margin-top: 0;
   }
   
   .zoom-button {
@@ -353,26 +300,16 @@
   
   .chamber-selector select, .year-selector select {
     padding: 6px 8px;
-    min-width: 100px;
+    min-width: 80px;
+    font-size: 0.8rem;
   }
   
-  .legend {
-    font-size: 0.7rem;
-    padding: 5px;
+  .chamber-selector label, .year-selector label {
+    gap: 5px;
+    font-size: 0.9rem;
   }
   
-  .legend-item {
-    width: 100%;
-    margin-right: 0;
-    margin-bottom: 5px;
-  }
-  
-  .color-box {
-    width: 12px;
-    height: 12px;
-  }
-  
-  .legend-title {
-    margin-bottom: 3px;
+  .control-selector {
+    justify-content: center;
   }
 } 

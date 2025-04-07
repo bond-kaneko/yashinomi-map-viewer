@@ -476,24 +476,6 @@ const ElectionGridView = ({ politicians }: ElectionGridViewProps) => {
           {renderPrefectureBlocks()}
         </div>
       </div>
-
-      <div className="legend">
-        <div className="legend-title">選挙区の状況</div>
-        <div className="legend-item">
-          <span
-            className="color-box"
-            style={{ backgroundColor: "#D2B48C" }}
-          ></span>
-          <span>賛成以外の議員がいる選挙区</span>
-        </div>
-        <div className="legend-item">
-          <span
-            className="color-box"
-            style={{ backgroundColor: "#95a5a6" }}
-          ></span>
-          <span>賛成議員のみの選挙区</span>
-        </div>
-      </div>
     </div>
   );
 };
