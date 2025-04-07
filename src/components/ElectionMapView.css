@@ -1,0 +1,126 @@
+.election-map-container {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  width: 100%;
+  height: 100%;
+}
+
+.controls {
+  display: flex;
+  justify-content: space-between;
+  background-color: #f5f5f5;
+  padding: 0.5rem;
+  border-radius: 4px;
+}
+
+.view-selector, .chamber-selector {
+  margin: 0 10px;
+}
+
+.view-selector label, .chamber-selector label {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.view-selector select, .chamber-selector select {
+  padding: 8px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  background-color: white;
+  font-size: 14px;
+}
+
+.map-wrapper {
+  width: 100%;
+  height: 600px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  overflow: hidden;
+  background-color: #f8f8f8;
+  position: relative;
+}
+
+/* Debug section style */
+.debug-info {
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+  z-index: 1000;
+  background: rgba(255,255,255,0.8);
+  padding: 5px;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+  max-width: 300px;
+  max-height: 150px;
+  overflow: auto;
+}
+
+/* React Simple Maps のスタイル調整 */
+.map-wrapper svg {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+.rsm-geography {
+  outline: none;
+  cursor: pointer;
+  transition: fill 0.2s;
+}
+
+.loading-map, .error-map {
+  width: 100%;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f5f5f5;
+  border-radius: 4px;
+}
+
+.error-map {
+  color: #e74c3c;
+}
+
+.legend {
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+  padding: 0.5rem;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  background-color: #f8f8f8;
+}
+
+.legend-item {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.color-box {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  border: 1px solid #ddd;
+}
+
+@media (max-width: 768px) {
+  .controls {
+    flex-direction: column;
+  }
+  
+  .view-selector, .chamber-selector {
+    margin: 5px 0;
+  }
+  
+  .legend {
+    flex-wrap: wrap;
+  }
+  
+  .legend-item {
+    margin: 5px 10px;
+  }
+} 

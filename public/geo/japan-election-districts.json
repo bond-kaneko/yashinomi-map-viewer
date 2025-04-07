@@ -1,0 +1,225 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "東京1区",
+        "code": "tokyo1",
+        "chamber": "representatives"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [139.7, 35.65],
+            [139.75, 35.65],
+            [139.75, 35.7],
+            [139.7, 35.7],
+            [139.7, 35.65]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "東京2区",
+        "code": "tokyo2",
+        "chamber": "representatives"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [139.75, 35.65],
+            [139.8, 35.65],
+            [139.8, 35.7],
+            [139.75, 35.7],
+            [139.75, 35.65]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "東京3区",
+        "code": "tokyo3",
+        "chamber": "representatives"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [139.7, 35.7],
+            [139.75, 35.7],
+            [139.75, 35.75],
+            [139.7, 35.75],
+            [139.7, 35.7]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "東京4区",
+        "code": "tokyo4",
+        "chamber": "representatives"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [139.75, 35.7],
+            [139.8, 35.7],
+            [139.8, 35.75],
+            [139.75, 35.75],
+            [139.75, 35.7]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "大阪1区",
+        "code": "osaka1",
+        "chamber": "representatives"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [135.45, 34.65],
+            [135.5, 34.65],
+            [135.5, 34.7],
+            [135.45, 34.7],
+            [135.45, 34.65]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "大阪2区",
+        "code": "osaka2",
+        "chamber": "representatives"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [135.5, 34.65],
+            [135.55, 34.65],
+            [135.55, 34.7],
+            [135.5, 34.7],
+            [135.5, 34.65]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "北海道1区",
+        "code": "hokkaido1",
+        "chamber": "representatives"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [141.3, 43.0],
+            [141.4, 43.0],
+            [141.4, 43.1],
+            [141.3, 43.1],
+            [141.3, 43.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "北海道2区",
+        "code": "hokkaido2",
+        "chamber": "representatives"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [141.4, 43.0],
+            [141.5, 43.0],
+            [141.5, 43.1],
+            [141.4, 43.1],
+            [141.4, 43.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "東京選挙区",
+        "code": "tokyo",
+        "chamber": "councillors"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [139.65, 35.6],
+            [139.85, 35.6],
+            [139.85, 35.8],
+            [139.65, 35.8],
+            [139.65, 35.6]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "大阪選挙区",
+        "code": "osaka",
+        "chamber": "councillors"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [135.4, 34.6],
+            [135.6, 34.6],
+            [135.6, 34.75],
+            [135.4, 34.75],
+            [135.4, 34.6]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "北海道選挙区",
+        "code": "hokkaido",
+        "chamber": "councillors"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [141.2, 42.9],
+            [141.6, 42.9],
+            [141.6, 43.2],
+            [141.2, 43.2],
+            [141.2, 42.9]
+          ]
+        ]
+      }
+    }
+  ]
+} 
